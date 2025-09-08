@@ -21,3 +21,8 @@ Analyzed its AUGUST monthly sales report as following:
 6. Habbits special pizza driving 52% among the top selling items while followed by Mexican sandwitch.
 
 7. Friday is the busiest day among all the days in the whole month due to weekend.
+
+
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Humna241/HABBITS-Cafe-Pizzarie-AUG-sales-Report/blob/main/HABBBITS%20sales%20report%20AUG.PNG)
+
