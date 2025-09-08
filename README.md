@@ -12,7 +12,7 @@ Analyzed its AUGUST monthly sales report as following:
 
 2. Delivery contributes the more among all the order type category while Dine in is at 2nd having 31% sales share.
  
-3. 2AM to 9Am are the lowest order generating time. Orders ratio increase from 6 PM  while PM to 12PM are the busiest hours.
+3. 2AM to 9Am are the lowest order generating time. Orders ratio increase from 6 PM  while 8 PM to 12 PM are the busiest hours.
 
 4. There are highest order count of Delivery orders.
 
