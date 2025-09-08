@@ -18,6 +18,6 @@ Analyzed its AUGUST monthly sales report as following:
 
 5.14 Aug was the highest sales generating day due to independence Day.
 
-6. Habbits special pizza driving 52% among the top selling items while followed by Mexican sandwitch.
+6.Habbits special pizza driving 52% among the top selling items while followed by Mexican sandwitch.
 
-7. Friday is the busiest day among all the days in the whole month due to weekend.
+7.Friday is the busiest day among all the days in the whole month due to weekend.
