@@ -1,4 +1,4 @@
-# HABBITS Cafe & Pizzarie AUG sales Report
+# HABBITS Cafe & Pizzeria AUG sales Report
 
 **Habbits Sales Report:(Aug)**
 
